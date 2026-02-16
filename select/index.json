@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Lost Kids Get Money",
+  "base_artist": "Brent Faiyaz",
+  "createdAt": "2026-02-16T16:35:24.288429Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Lost Kids Get Money",
+      "artist": "Brent Faiyaz",
+      "has_synced": true,
+      "path": "select/01_Lost_Kids_Get_Money_Brent_Faiyaz.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Lost Kids Get Money (ChopNotSlop Remix)",
+      "artist": "Lost Kids",
+      "has_synced": false,
+      "path": "select/02_Lost_Kids_Get_Money_(ChopNotSlop_Remix)_Lost_Kids.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Lost Kids Get Money (ChopNotSlop Remix)",
+      "artist": "Lost Kids, Brent Faiyaz, DJ Candlestick",
+      "has_synced": false,
+      "path": "select/03_Lost_Kids_Get_Money_(ChopNotSlop_Remix)_Lost_Kids,_Brent_Faiyaz,_DJ_Candlestick.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Lost Kids Get Money",
+      "artist": "Brent Faiyaz",
+      "has_synced": false,
+      "path": "select/pl_01_Lost_Kids_Get_Money_Brent_Faiyaz.txt"
+    }
+  ]
+}
